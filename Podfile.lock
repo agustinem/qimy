@@ -1,0 +1,33 @@
+PODS:
+  - BMASliders (1.0.0)
+  - CXCardView (1.0.0)
+  - FXReachability (1.1.1)
+  - KVNProgress (2.2.1)
+  - LGSublimationView (0.3.0)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+  - TTRangeSlider (1.0.2)
+  - UzysAssetsPickerController (0.9.7)
+
+DEPENDENCIES:
+  - BMASliders
+  - CXCardView (= 1.0.0)
+  - FXReachability (= 1.1.1)
+  - KVNProgress
+  - LGSublimationView
+  - SDWebImage
+  - TTRangeSlider
+  - UzysAssetsPickerController
+
+SPEC CHECKSUMS:
+  BMASliders: 6a6d6ca5f3f6fefce7ec9823d9c456fd03e106cc
+  CXCardView: 46aa5ef9daee36fd2d16197b757b3f97ca177ebd
+  FXReachability: fb657e56ce1dca21708c4ef60ec7bbd7316808e9
+  KVNProgress: 7001d2d16a2755cee5599e8e485befe056f2197b
+  LGSublimationView: ab470c7b20d1c86761fbe3c0d5a78bc4958ab077
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+  TTRangeSlider: e41d992cc0047da48884ad507f968db5ab08441b
+  UzysAssetsPickerController: eae7c24955501a80df34286b1797a2ec6f6b1ab9
+
+COCOAPODS: 0.38.2

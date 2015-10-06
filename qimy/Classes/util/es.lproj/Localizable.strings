@@ -1,0 +1,158 @@
+/* 
+  Texts.strings
+  qimy
+
+  Created by Agustín Embuena on 4/6/15.
+  Copyright (c) 2015 Agustín Embuena. All rights reserved.
+*/
+
+/*** NOMBRE DE PANTALLAS ****/
+"login_title" = "Login";
+
+
+/*** PANTALLA LOGIN  ***/
+"login_button_enter" = "ENTRAR";
+"login_button_register" = "REGÍSTRATE";
+"login_button_registercancelar" = "AHORA NO";
+"login_button_register2" = "REGÍSTRATE";
+"login_button_forget" = "He perdido mi contraseña :-(";
+"login_label_textAlert" = "¡No publicaremos nada en tu muro sin tu consentimiento!";
+"login_placeholder_email" = "e-mail";
+"login_placeholder_clave" = "contraseña";
+"login_placeholder_confirmarclave" = "confirmar clave";
+"login_validar_1"="Direccion de email no valida, intentelo de nuevo";
+"login_validar_2"="El nombre de usuario y la contraseña deben tener al menos seis carácteres";
+"login_validar_3"="La contraseña no coincide en ambos campos, intentelo de nuevo";
+"login_validar_reg"= "Registro";
+"login_validar_ok"= "Ok";
+"login_validar_er" = "Error";
+"login_validar_facebook_msg" = "Hay algún problema con la conexión a facebook, prueba un poco mas tarde";
+
+/***PANTGALLA REGISTRO**/
+"registro_title_ok" = "Bienvenido a qimy";
+"registro_msg" = "Recibirás un mail , acepta y prepárate para disfrutar de nuevas aventuras.";
+
+/*** PANTALLA OLVIDO  ***/
+"forget_navigation_title" = "Recuperar contraseña";
+"forget_label_text" = "Introduce tu dirección de mail para recuperarla y revisa en unos minutos tu buzón de correo.";
+"forget_placeholder_email" = "tu e-mail";
+"forget_button_enter" = "ENVIAR";
+"forget_alert_title"= "Enviado";
+"forget_alert_message" = "El mail con tu clave se ha enviado";
+"forget_alert_title_ko"= "No Enviado";
+"forget_alert_message_ko" = "El mail con tu clave no se ha enviado";
+
+/**ENU TAB BAR */
+
+"tabbar_menu_1" = "Perfil";
+"tabbar_menu_2" = "Chat";
+"tabbar_menu_3" = "Buscar";
+
+"FBLV:LogInButton" = "Regístrate con facebook";
+
+/*** PANTALLA REGISTRO  ***/
+"perfil_title" = "Mi Perfil";
+"perfil_nombre_TF" = "Nombre o alias";
+"perfil_edad_TF" = "Edad";
+"perfil_descripcion_text" = "Escribe algo sobre ti";
+"perfil_sexo" = "Eres:";
+"perfil_busca" = "Buscas:";
+"perfil_rango" = "Buscas personas en el rango de edad:";
+"perfil_provincia" = "En la provincia..";
+"perfil_foto" = "Elige tu foto de perfil principal:";
+"perfil_sesion" = "Cerrar sesión";
+"perfil_editar" = "Guardar";
+"perfil_error_foto" = "Uups esta foto no vale";
+"perfil_alert_foto_title" = "Foto de perfil";
+"perfil_alert_foto_message" = "¿Qué desea hacer?";
+"perfil_alert_foto_opcion3" = "Seleccionar";
+"perfil_alert_foto_opcion1" = "Editar";
+"perfil_alert_foto_opcion2" = "Eliminar";
+"perfil_alert_foto_cancelar" = "Cancelar";
+"perfil_alert_foto_error_mess" = "No puedes eliminar tu foto de perfil, selecciona otra antes de eliminar";
+"perfil_alert_foto_error" = "Un momento";
+"error_sexos" = "Debes seleccionar el sexo que buscas";
+"validar_perfilnombre" = "Necesito tu nombre\n";
+"validar_perfiledad" = "Necesito saber tu edad\n";
+"validar_perfildescrip" = "Necesito saber de ti\n";
+"validar_perfilsexo" = "Necesito saber tu sexo\n";
+"validar_perfilbusca" = "¿Buscas hombre o mujer?\n";
+"validar_perfilprovincia" = "¿De dónde eres?\n";
+"validar_perfilcarita" = "Una foto tuya, ok?\n";
+"validar_alert" = "¿Cómo eres?";
+"validar_alert_mess" = "Me gustaría conocerte un poquito mejor";
+"subiendo_datos" = "Subiendo datos y fotos, espere un momento";
+"descargafotos"="descargando fotos";
+"perfil_fotosFacebook_title" = "Obteniendo fotos de facebook";
+"perfil_prov_err" = "Buscando provincias.";
+"perfil_eliminar_boton" = "Eliminar perfil";
+"perfil_error_eliminar_title" = "Error eliminado";
+"perfil_error_eliminar_title_msg" = "Vuelve a intentarlo mas tarde";
+"perfil_sobre_nosotros_boton" = "Sobre nosotros";
+
+/******** BUSCAR ************/
+
+"buscar_geolocalizar" = "Geolocalízame";
+"buscar_distancia" = "RANGO DE DISTANCIA";
+"buscar_edad" = "RANGO DE EDAD";
+"buscar_title" = "Buscar";
+"notificacion_alert_off"= "Servicio de localización desactivados";
+"notificacion_alert_on"= "Localización en segundo plano desactivado";
+"notification_alert_mess"= "Para usar la localización en segundo plano debes activar el modo Siempre en Ajustes";
+"notificacion_button" = "Ajustes";
+"alert_error" = "Upps no hay nadie!";
+"alert_error_message" = "Upps no hay nadie, prueba de nuevo!";
+"alert_error_perfil" = "Rellena tu perfil";
+"alert_error_perfil_mesg" = "Debes guardar tener tu perfil completo para buscar";
+"notifica_eliminar"= "¿Estás seguro de eliminar a este usuario?";
+"notifica_denunciar"= "¿Estás seguro de denunciar a este usuario?";
+"notifica_incompatibilidadd"= "¿Estás seguro de querer eliminarlo=?";
+
+//************************* resultado **////////
+
+"eliminarButton_perfil" = "Baja de qimy";
+"notifica_eliminar_perfil"= "¿Seguro que deseas darte de baja?, se eliminaran todos tus datos y conversaciones";
+"eliminarButton" = "Bloquear";
+"denunciartButton"= "Denunciar";
+"noqimy" = "No hay mas";
+"noqimy_msg" = "Realiza una nueva búsqueda";
+"denuncia_msg" = "Denuncia realizada con éxito";
+"denuncia" = "Denunciado";
+"textoQimy1" = "¡Hay Qimy entre vosotros!";
+"textoQimy2" = "¿Quieres chatear ahora?";
+
+
+//*************** CHAT ********************/
+"chat_title" =  "Qimys";
+"alert_error_message_msg" = "No hay mensajes";
+"boton_enviar"= "Enviar";
+
+/************* WS **********/
+"ws_login_reg" = "Comprobando datos";
+"ws_login" = "Cargando";
+"ws_login_error" = "Uuups , no has introduciddo el usuario o la clave correctamente";
+"ws_registrar_error" = "No se ha podido registrar, pruebe con otro usuario";
+
+"ws_error" = "Se ha producido un error inesperado, vuelva a intentarlo";
+"ws_error_connect" = "No tienes conexión a internet";
+"ws_buscar" = "Buscando a gente que te mole!";
+"ws_perfil" = "Guardando datos";
+"ws_fotos" = "Comprimiendo fotos";
+"ws_clave" = "Recuperando clave";
+"ws_eliminar" = "Eliminando perfil";
+"ws_qimy" = "Qimy...";
+"ws_noqimy"= "No qimy...";
+"ws_bloq" = "Bloqueando...";
+"ws_den" = "Denunciando...";
+"ws_enc" =  "Actualizando...";
+"ws_msg" =  "Obteniendo últimos mensajes";
+"ws_chat" =  "Obteniendo chat";
+"ws_envio_msg" = "Enviando mensaje";
+"ws_getuser"= "Obteniendo usuario...";
+
+
+
+/******** PANTALLA GENERAL *********/
+"notif_error_title" = "Sin avisos";
+"notif_error_mess"= "No puedes recibir notificaciones, ni avisos lo mejor será que vuelvas a entrar.";
+
